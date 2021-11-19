@@ -1,0 +1,130 @@
+.body {
+    min-height: 200px;
+}
+.banner {
+    height: 60vh;
+    background-image: url('imagess.jpeg');
+    background-size: cover;
+    position: relative;
+    display: flex;
+    align-items: center;
+    text-align: left; 
+    padding: 130px 50px 0px px;
+    color: white; 
+    font-weight: lighter;
+}
+.banner:after {
+    content:'';
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(124, 169, 253, 0.6);
+}
+.banner h1 {
+    color: white;
+    z-index: 1;
+    padding: 30px 20px ;
+    font-size: 50px;
+}
+
+#visi-misi {
+    padding: 20px;
+}
+
+#berita {
+    padding: 0rem 1rem 2rem 1rem;
+}
+
+#berita h1{
+    padding-bottom: 20px;
+}
+
+#sambutan{
+    padding: 0rem 1rem 2rem 1rem;
+}
+
+#sambutan h1{
+    padding-bottom: 20px;
+}
+
+#sejarah{
+    padding: 0rem 1rem 2rem 1rem;
+}
+#sejarah h1{
+    padding-bottom: 20px;
+}
+
+#struktur-organisasi{
+    padding: 0rem 1rem 2rem 1rem;
+}
+#struktur-organisasi h1{
+    padding-bottom: 20px;
+}
+
+#guru{
+    padding: 0rem 1rem 2rem 1rem;
+}
+#guru h1{
+    padding-bottom: 20px;
+}
+
+#fasilitas{
+    padding: 0rem 1rem 2rem 1rem;
+}
+#fasilitas h1{
+    padding-bottom: 20px;
+}
+
+#program{
+    padding: 0rem 1rem 2rem 1rem;
+}
+#program h1{
+    padding-bottom: 20px;
+}
+
+#ekskul{
+    padding: 0rem 1rem 2rem 1rem;
+}
+#ekskul h1{
+    padding-bottom: 20px;
+}
+
+#berita{
+    padding: 0rem 1rem 2rem 1rem;
+}
+#berita h1{
+    padding-bottom: 20px;
+}
+
+#prestasi{
+    padding: 0rem 1rem 2rem 1rem;
+}
+#prestasi h1{
+    padding-bottom: 20px;
+}
+
+#galery{
+    padding: 0rem 1rem 2rem 1rem;
+}
+#galery h1{
+    padding-bottom: 20px;
+}
+
+#label p{
+    padding-top: 50px;
+}
+
+#kontak{
+    padding-top: 50px;
+}
+
+.pendidik{
+    padding-top: 20px;
+}
+
+#button {
+    padding: 10px;
+}

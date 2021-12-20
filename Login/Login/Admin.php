@@ -39,7 +39,7 @@
                 <div class="sidebar-brand-icon rotate-n-15">
                     <i class="fas fa-laugh-wink"></i>
                 </div>
-                <div class="sidebar-brand-text mx-3">MI Pasir Bentik Admin</sup></div>
+                <div class="sidebar-brand-text mx-3">SMK Suryakencana Admin</sup></div>
             </a>
 
             <!-- Divider -->

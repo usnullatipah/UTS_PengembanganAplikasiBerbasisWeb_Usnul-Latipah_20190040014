@@ -14,7 +14,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8">
-                        <h1>Selamat datang di website MI Pasir Bentik</h1>
+                        <h1>Selamat datang di website SMK Suryakencana</h1>
                         <p>Silahkan Log In</p>
                     </div>
                     <div class="col-md-4">

@@ -17,7 +17,7 @@
 
 			//jika hasil query = 0 maka muncul pesan error
 			if(mysqli_num_rows($select) == 0){
-				echo '<div class="alert alert-warning">ID tidak ada dalam database.</div>';
+				echo '<div class="alert alert-warning">ID tidak ada dlm database.</div>';
 				exit();
 			//jika hasil query > 0
 			}else{

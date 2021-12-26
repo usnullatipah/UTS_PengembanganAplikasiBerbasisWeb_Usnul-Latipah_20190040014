@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="icon" href="assets/images/logo.jfif" type="image/ico" />
 
-    <title> Admin SMK Suryakencanaa </title>
+    <title> Admin SMK Suryakencana </title>
 
     <!-- Bootstrap -->
     <link href="assets/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">

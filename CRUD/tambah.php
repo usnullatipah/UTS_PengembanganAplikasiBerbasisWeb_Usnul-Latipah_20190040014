@@ -27,7 +27,7 @@
 
 		<form action="index.php?page=tambah_mhs" method="post">
 			<div class="item form-group">
-				<label class="col-form-label col-md-3 col-sm-3 label-align">NIP</label>
+				<label class="col-form-label col-md-3 col-sm-3 label-align">NI</label>
 				<div class="col-md-6 col-sm-6 ">
 					<input type="text" name="NIP" class="form-control" size="4" required>
 				</div>

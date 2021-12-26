@@ -4,7 +4,7 @@ include('config.php');
 
 //jika benar mendapatkan GET id dari URL
 if(isset($_GET['NIP'])){
-	//membuat variabel $id yang menyimpan nilai dari $_GET['id']
+	//mebuat variabel $id yang menyimpan nilai dari $_GET['id']
 	$NIP = $_GET['NIP'];
 
 	//melakukan query ke database, dengan cara SELECT data yang memiliki id yang sama dengan variabel $id

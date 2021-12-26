@@ -1,6 +1,6 @@
 <?php
 //koneksi ke database mysql,
-$koneksi = mysqli_connect("localhost","root","","smk_suryakencan");
+$koneksi = mysqli_connect("localhost","root","","smk_suryakencana");
 
 //cek jika koneksi ke mysql gagal, maka akan tampil pesan berikut
 if (mysqli_connect_errno()){
